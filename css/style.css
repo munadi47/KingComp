@@ -206,6 +206,11 @@ h6 {
   text-decoration: underline;
 }
 
+#intro .intro-content h2 .wrap {
+  color: #0c2e8a;
+  text-decoration: none;
+}
+
 #intro .intro-content .btn-get-started,
 #intro .intro-content .btn-projects {
   font-family: "Raleway", sans-serif;
